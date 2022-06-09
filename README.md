@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Using an oracle virtual machine, I intentionally created vulnerabilities by installing deprecated software (Mozilla, in this case) and then running a Nessus scan to identify and remediate the vulnerabilities. I practiced both uncredentialed and credential scanning. 
+Using an oracle virtual machine, I intentionally created vulnerabilities by installing deprecated software (Mozilla v3, in this case) and then running a Nessus scan to identify and remediate the vulnerabilities. I practiced both uncredentialed and credential scanning. 
 <br />
 
 
